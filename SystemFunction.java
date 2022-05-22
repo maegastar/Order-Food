@@ -1,6 +1,6 @@
 /*
  */
-package scproject1;
+package scproject2;
 
 import java.util.Scanner;
 

@@ -1,5 +1,5 @@
 
-package scproject1;
+package scproject2;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
